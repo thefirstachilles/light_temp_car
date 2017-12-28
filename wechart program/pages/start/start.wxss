@@ -1,0 +1,75 @@
+/* pages/start/start.wxss */
+#myAudio{
+  width:10%;
+top:10%;
+}
+.btn1{
+
+  width: 50%;
+
+  top:5%;
+  color: white;
+   background-color: #ffdc35;
+
+}
+ #text1{
+
+  color: #796400;
+
+  font-family:PingFangSC-Regular;
+
+  font-size:20px;
+
+  top: 38%;
+
+  left: 17%;
+
+  position: absolute
+
+  }
+#input{
+
+  background-color: #efffd7;
+
+  width: 60%;
+
+  height: 88rpx;
+
+  top: 45%;
+
+  left: 18%;
+
+  position: absolute
+
+  }
+   #text2{
+
+  color: #ffa024;
+
+  font-family:PingFangSC-Regular;
+
+  font-size:12px;
+
+  top: 55%;
+
+  left: 17%;
+
+  position: absolute
+
+  }
+
+
+
+  #btn3{
+
+  height: 88rpx;
+
+  top: 60%;
+
+  width: 60%;
+
+  color: white;
+
+  background-color: #ffdc35;
+
+  }
